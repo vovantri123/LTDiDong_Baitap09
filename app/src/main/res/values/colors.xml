@@ -5,4 +5,6 @@
     <color name="purple_700">#6200EE</color>
     <color name="purple_500">#BB86FC</color>
     <color name="purple_200">#E0B0FF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="text_secondary">#757575</color>
 </resources>

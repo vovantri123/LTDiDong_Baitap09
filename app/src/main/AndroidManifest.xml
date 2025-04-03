@@ -34,9 +34,11 @@
         .bt1upload.MainUploadActivity
         .bt2socket.MainSocketActivity
 
+        .bt2socket.ProfileActivity
+
          -->
         <activity
-            android:name=".bt2socket.MainSocketActivity"
+            android:name=".bt2socket.ProfileActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,6 +47,9 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".bt2socket.ProfileImageUpload"/>
+
+        <activity android:name=".bt2socket.MainSocketActivity"/>
         <activity android:name=".bt2socket.BlueControl"/>
     </application>
 
