@@ -1,4 +1,4 @@
-package vn.iotstar.baitap09.bt2socket;
+package vn.iotstar.baitap09.vidu;
 
 import android.Manifest;
 import android.app.Activity;
@@ -12,7 +12,6 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 import android.util.Log;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
